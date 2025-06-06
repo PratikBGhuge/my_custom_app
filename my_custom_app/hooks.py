@@ -3,7 +3,9 @@ app_title = "My Custom App"
 app_publisher = "Digiopen"
 app_description = "Customization"
 app_email = "digiopenpratik@gmail.com"
-app_license = "mit"
+# my_custom_app/hooks.py
+
+
 
 # Apps
 # ------------------
