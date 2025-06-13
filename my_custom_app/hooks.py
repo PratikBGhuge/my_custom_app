@@ -5,7 +5,11 @@ app_description = "Customization"
 app_email = "digiopenpratik@gmail.com"
 # my_custom_app/hooks.py
 
-
+fixtures = [
+    {"dt": "Web Page"},
+    {"dt": "Website Item"}
+]
+fixtures = ["Demo Webshop"]
 
 # Apps
 # ------------------
